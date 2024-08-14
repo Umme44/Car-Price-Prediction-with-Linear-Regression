@@ -1,1 +1,1 @@
- "Car Price Prediction with Linear Regression Algorithm"
+ "Spam Email Prediction using Machine Learning Algorithm"
