@@ -1,1 +1,1 @@
- "Spam Email Prediction using Machine Learning Algorithm"
+"Spam Email Predict"
