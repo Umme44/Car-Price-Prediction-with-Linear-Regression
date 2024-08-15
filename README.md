@@ -1,1 +1,1 @@
-"Spam Email Predict"
+"Car Price Prediction with Linear Regression"
